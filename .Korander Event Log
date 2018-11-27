@@ -1,0 +1,9 @@
+Korander Event Log
+
+11/26/2018
+just finished debugging the save and load functionality. should be working as long as you edit the actual object and not the variables.
+
+TO DO:
+finish the player, npc and monster classes. There's going to be a lot of things being rewritten but i can merge them into a single parent class later. 
+(probably a character class)
+
